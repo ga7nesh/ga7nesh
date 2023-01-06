@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ga77nesh" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRVEJqdVi6tsn38VDRXJZ82whXTW4gVf7oXg&usqp=CAU" alt="ga77nesh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ga77nesh/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRVEJqdVi6tsn38VDRXJZ82whXTW4gVf7oXg&usqp=CAU" alt="ga77nesh" height="30" width="40" /></a>
 <a href="https://twitter.com/ga77nesh" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQglCwepYXmEckvtV6HYMYD-T59lBKcLYfxcg&usqp=CAU" alt="ga77nesh" height="30" width="40" /></a>
 </p>
 
