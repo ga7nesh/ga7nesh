@@ -27,5 +27,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ga7nesh&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="ga7nesh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ga7nesh&show_icons=true&theme=dark&hide_border=true&locale=en" alt="ga7nesh" /></p>
-
