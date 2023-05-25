@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ganesh</h1>
 <h3 align="center">A Passionate Developer From India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/fBoFE2aeLPsAAAAd/pixel-neon-rain.gif">
+<img align="right" alt="Coding" width="400" src=>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ga7nesh&label=Profile%20views&color=eb4d3d&style=flat-square" alt="ga7nesh" /> </p>
 
