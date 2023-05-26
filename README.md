@@ -29,12 +29,12 @@
 <h3 align="left">Stats:</h3>
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ga7nesh&theme=highcontrast&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
+<br>
 
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/gundavarapuganesh?theme=dark&font=baloo&extension=activity)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ga7nesh&theme=highcontrast&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
 
 
 <!--
