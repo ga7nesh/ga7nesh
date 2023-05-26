@@ -25,5 +25,7 @@
 
 <h3 align="left">Stats:</h3>
 
+![LeetCode Stats](https://leetcode.card.workers.dev/gundavarapuganesh?theme=nord&font=baloo&extension=activity)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ga7nesh&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="ga7nesh" /></p>
 
