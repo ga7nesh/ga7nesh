@@ -12,16 +12,16 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ga7nesh&label=Profile%20views&color=eb4d3d&style=flat-square" alt="ga7nesh" /> </p>
-
+<!-- 
 -  I’m currently working on https://github.com/ga7nesh/LeetCode
-
+<!-- 
 -  All of my projects are available at [https://linktr.ee/gundavarapuganesh](https://linktr.ee/gundavarapuganesh)
-
+<!-- 
 -  Reach me **gundavarapuganesh@gmail.com**
-
+<!-- 
 -  Fun fact **Everything you can imagine is Real**
 
-<!-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/ga77nesh/" target="blank"><img align="center" src="https://www.designbust.com/download/1006/png/instagram_logo_transparent_background_png512.png" alt="ga77nesh" height="30" width="40" /></a>
 <a href="https://twitter.com/ga77nesh" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="ga77nesh" height="30" width="40" /></a>
@@ -33,7 +33,11 @@
 <h3 align="left">Stats:</h3>
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ga7nesh&theme=highcontrast&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=ga7nesh&theme=highcontrast&hide_border=true&fire=EB5454" alt="GitHub Streak"/>
+  </a>
+</p>
 <br>
 
 <!--
